@@ -18,9 +18,11 @@ Welcome to the **Creative Python Basics** repository! This project reimagines Py
    git clone https://github.com/your-username/python_basics.git
 
 2. **Navigate to the project folder:**:
+   ```bash
    cd python_basics/projects
 
-3. **Run a script:**
+4. **Run a script:**
+   ```bash
    python 01_reflected_name_generator.py
 
 ## Requirements
